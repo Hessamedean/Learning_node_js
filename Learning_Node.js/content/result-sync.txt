@@ -1,0 +1,1 @@
+Here is the result of writing a file : this is the first text file, this the second text fileHere is the result of writing a file : this is the first text file, this the second text file
